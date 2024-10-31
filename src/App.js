@@ -6,8 +6,7 @@ function App() {
   
   return (
     <>
-      <p>This is paragraph</p>
-      <p>This is paragraph</p>
+      <h1>My Assignment</h1>
       <Profilez name="Afnan Yousuf" detail="Former Naat Reciter" designation="senior"/>
       <Profilez name="Amin" detail="Former footballer" designation="junior"/>
     </>
